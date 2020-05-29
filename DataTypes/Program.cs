@@ -51,8 +51,8 @@ namespace DataTypes
                 int* ipointer;                                 //pointerlar 
             }
             #endregion
-                                                               //Variable anlamına gelen değişken tipi hangi değer verilirse o olur 
-            var _var=1;
+                                                               
+            var _var=1;                                        //Variable anlamına gelen değişken tipi hangi değer verilirse o olur 
 
             Console.ReadKey();                                  
         }
