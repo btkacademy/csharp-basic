@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1-IfElse", "IfElse\3.1-If
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-TypeConversions", "TypeConversions\2-TypeConversions.csproj", "{54EC775D-7C85-4265-A63B-7329F6D13F4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2-SwitchCase", "SwitchCase\3.2-SwitchCase.csproj", "{8E8DC33E-3A80-4725-AD69-30CB970320B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Loops", "4-Loops", "{A8B9A9FF-397F-4129-90A6-0F13662689FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +33,17 @@ Global
 		{54EC775D-7C85-4265-A63B-7329F6D13F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54EC775D-7C85-4265-A63B-7329F6D13F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54EC775D-7C85-4265-A63B-7329F6D13F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8DC33E-3A80-4725-AD69-30CB970320B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8DC33E-3A80-4725-AD69-30CB970320B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8DC33E-3A80-4725-AD69-30CB970320B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8DC33E-3A80-4725-AD69-30CB970320B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{025FDA4D-97FD-4719-9F8F-3CC2BD8B01BA} = {2F10EAF8-1A72-4077-8AD0-038C951AFECC}
+		{8E8DC33E-3A80-4725-AD69-30CB970320B0} = {2F10EAF8-1A72-4077-8AD0-038C951AFECC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D7ACB3A7-E30C-4481-88E6-42D6E969E742}
