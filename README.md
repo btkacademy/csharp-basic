@@ -5,4 +5,4 @@
 - **3-Conditions** şart ifadeleri
   - **3.1-If Else** kullanımı
   - **3.2-Switch Case** kullanımı
-- **4-Arrays** diziler
+- **4-Arrays-Collections** diziler,koleksiyonlar
