@@ -17,3 +17,7 @@
   - **5.3-DoWhileLoop** do while döngüsü
   - **5.4-ForeachLoop** foreach döngüsü
   - **5.5-JumpStatements** atlama ifadeleri(goto,break,continue)
+- **6-Methods** metotlar
+  - **6.1-Methods** metot tanımlama
+  - **6.2-Overload** aşırı yükleme
+  - **6.3-MethodParameters** yöntem parametreleri(ref,out,in,params)
