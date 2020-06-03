@@ -21,3 +21,11 @@
   - **6.1-Methods** metot tanımlama
   - **6.2-Overload** aşırı yükleme
   - **6.3-MethodParameters** yöntem parametreleri(ref,out,in,params)
+- **7-Class,Interfaces** sınıf,arayüz
+  - **7.1-Classes** sınıf tanımlama
+  - **7.2-Interfaces** arayüz tanımlama
+  - **7.3-Inheritance** kalıtım
+  - **7.4-Polymorphism** çokbiçimlilik(virtual)
+  - **7.5-AbstractClasses** soyut sınıf
+  - **7.6-ConstructerFinalizerDispose** yapıcı,yıkıcı,yoketici tanımları
+  - **7.7-AccessKeywords** anahtar sözcüklere erişim(this,base)
