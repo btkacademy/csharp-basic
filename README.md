@@ -29,9 +29,18 @@
   - **7.5-AbstractClasses** soyut sınıf
   - **7.6-ConstructerFinalizerDispose** yapıcı,yıkıcı,yoketici tanımları
   - **7.7-AccessKeywords** anahtar sözcüklere erişim(this,base)
-  - **7.8-Struct** yapılar
+  - **7.8-Structs** yapılar
   - **7.9-ValueVsReferenceType** değer tip(value type) ve referans tip(reference type) farkları
 - **8-AccessModifier-Static** erişim bildirgeçleri,statik  kavramı
   - **8.1-AccessModifier** erişim bildirgeci
   - **8.2-Static** statik tanımlama
   - **8.3-Extensions** genişletme metodları
+- **9-ExceptionHandling** hata yönetimi
+  - **9.1-Exception** try,catch,finally
+  - **9.2-ThrowException** exception sınıfı yazma(throw)
+- **10-Generics** genel türler
+  - **10.1-Generics** generic sınıf tanımlama
+  - **10.2-GenericMethod** generic metot tanımlama
+- **11-Attribute-Reflection** öznitelikler,yansıma
+  - **11.1-Attributes** öznitelik tanımlama
+  - **11.2-Reflections** yansıma kullanımı
