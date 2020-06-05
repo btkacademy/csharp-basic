@@ -31,10 +31,14 @@
   - **7.7-AccessKeywords** anahtar sözcüklere erişim(this,base)
   - **7.8-Structs** yapılar
   - **7.9-ValueVsReferenceType** değer tip(value type) ve referans tip(reference type) farkları
-- **8-AccessModifier-Static** erişim bildirgeçleri,statik  kavramı
+- **8-Keywords** anahtar sözcükler
   - **8.1-AccessModifier** erişim bildirgeci
   - **8.2-Static** statik tanımlama
   - **8.3-Extensions** genişletme metodları
+  - **8.4-Sealed** mühürleme
+  - **8.5-Const** sabitler
+  - **8.6-Readonly** sadece okunabilir
+  - **8.7-Yield** sıralı okuma
 - **9-ExceptionHandling** hata yönetimi
   - **9.1-Exception** try,catch,finally
   - **9.2-ThrowException** exception sınıfı yazma(throw)
@@ -44,3 +48,8 @@
 - **11-Attribute-Reflection** öznitelikler,yansıma
   - **11.1-Attributes** öznitelik tanımlama
   - **11.2-Reflections** yansıma kullanımı
+- **12-Delegate-Events** temsilciler,olaylar
+  - **12.1-Delegates** temsilci tanımlama
+  - **12.2-ActFunc** temsilci tanımlama(Action,Func)
+  - **12.3-Events** olay tanımlama
+  - **12.4-EventsHandlerEventArgs** olay yönetimi,olay argümanları
