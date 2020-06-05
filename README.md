@@ -39,6 +39,7 @@
   - **8.5-Const** sabitler
   - **8.6-Readonly** sadece okunabilir
   - **8.7-Yield** sıralı okuma
+  - **8.8-Partial** parçalı tanımlama
 - **9-ExceptionHandling** hata yönetimi
   - **9.1-Exception** try,catch,finally
   - **9.2-ThrowException** exception sınıfı yazma(throw)
@@ -53,3 +54,12 @@
   - **12.2-ActFunc** temsilci tanımlama(Action,Func)
   - **12.3-Events** olay tanımlama
   - **12.4-EventsHandlerEventArgs** olay yönetimi,olay argümanları
+- **13-Linq** 
+  - **13.1-Filtering** filtreleme(Where,OfType)
+  - **13.2-Sorting** sıralama(OrderBy,ThenBy,Reverse)
+  - **13.3-Grouping** gruplama(GroupBy,ToLookUp)
+  - **13.4-Joins** birleştirme(Join,GroupJoin)
+  - **13.5-Projection** listeleme(Select,SelectMany)
+  - **13.6-Aggregation** toplama işlemleri(Aggregate,Avg,Count,Min,Max,Sum)
+  - **13.7-Quantifiers** niceleyiciler(All,Any,Contains)
+  - **13.8-Elements** tekil listeleme(ElementAt,First,Last,Single)
