@@ -63,3 +63,16 @@
   - **13.6-Aggregation** toplama işlemleri(Aggregate,Avg,Count,Min,Max,Sum)
   - **13.7-Quantifiers** niceleyiciler(All,Any,Contains)
   - **13.8-Elements** tekil listeleme(ElementAt,First,Last,Single)
+  - **13.9-Set** tekilleştirme(Distinct,Except,Intersect,Union)
+  - **13.10-Partitioning** parçalama(Skip,SkipWhile,Take,TakeWhile)
+  - **13.11-Concatenation** birleştirme(Concat)
+  - **13.12-Equality** index eşitliği(SequenceEqual)
+  - **13.13-Generation** DefaultIfEmpty,Empty,Range,Repeat
+  - **13.14-Conversion** tür dönüşümleri(AsEnumerable,AsQueryable,Cast,ToList,ToArray,ToDictionary)
+- **14-AdoNet** veritabanı işlemleri
+  - **14.1-Command** komut çalıştırma(SqlCommand,ExecuteNoneQuery,ExecuteScaler)
+  - **14.2-Parameters** sorguya parametre ekleme(SqlParameter)
+  - **14.3-DataReader** tablo listeleme(SqlDataReader)
+  - **14.4-DataAdapter** tablo listeleme(SqlDataAdapter)
+  - **14.5-Transaction** SqlTransaction(Commit,Rollback)
+  - **14.6-Dependency** SqlDepedency
