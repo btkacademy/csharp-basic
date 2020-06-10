@@ -76,3 +76,10 @@
   - **14.4-DataAdapter** tablo listeleme(SqlDataAdapter)
   - **14.5-Transaction** SqlTransaction(Commit,Rollback)
   - **14.6-Dependency** SqlDepedency
+- **15-Concurrency** eşzamanlılık
+  - **15.1-Threads** iş parçacıkları
+  - **15.2-Tasks** görevler
+  - **15.3-TaskCancel** görev iptali
+  - **15.4-AsyncAwait** asenkron yönetimi(async,await)
+  - **15.5-TaskParallelism** eş zamanlı görev yönetimi(TaskCreationOptions,WaitAll,WaitAny,WhenAll,WhenAny)
+  
