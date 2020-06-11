@@ -82,4 +82,6 @@
   - **15.3-TaskCancel** görev iptali
   - **15.4-AsyncAwait** asenkron yönetimi(async,await)
   - **15.5-TaskParallelism** eş zamanlı görev yönetimi(TaskCreationOptions,WaitAll,WaitAny,WhenAll,WhenAny)
-  
+  - **15.6-ParallelLoop** eş zamanlı döngüler
+  - **15.7-ThreadSafe** eş zamanlı işlerde işlem güvenliği(lock,Monitor)
+  - **15.8-ConcurrentCollection** güvenli koleksiyonlar(ConcurrentQueue,ConcurrentDictionary,ConcurrentBag,ConcurrentStack)
