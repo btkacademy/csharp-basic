@@ -85,3 +85,8 @@
   - **15.6-ParallelLoop** eş zamanlı döngüler
   - **15.7-ThreadSafe** eş zamanlı işlerde işlem güvenliği(lock,Monitor)
   - **15.8-ConcurrentCollection** güvenli koleksiyonlar(ConcurrentQueue,ConcurrentDictionary,ConcurrentBag,ConcurrentStack)
+- **16-CoolStuff** işe yarar araçlar
+  - **16.1-Stopwatch** 
+  - **16.2-StringBuilder** 
+  - **16.3-Tuple** demet türleri
+  - **16.4-Serialization** serileştirme
