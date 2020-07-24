@@ -90,3 +90,4 @@
   - **16.2-StringBuilder** 
   - **16.3-Tuple** demet türleri
   - **16.4-Serialization** serileştirme
+  - **16.5-CurrentPrincipal** rol bazlı yetki yönetimi
